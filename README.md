@@ -1,7 +1,8 @@
 # Plant growth system
 Arduino controlled plant growth management system with more individual soil and air, temperature and humidity control.
 
-
+## Main idea
+Have fun and learn. Be lazy.
 
 ### Hardware used
 - Arduino Uno clone.
