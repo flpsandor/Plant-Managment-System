@@ -1,2 +1,2 @@
 # Plant-System
- Arduino plant system
+ Arduino plant automation system
