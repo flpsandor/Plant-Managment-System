@@ -1,2 +1,2 @@
-# Plan-System
+# Plant-System
  Arduino plant system
