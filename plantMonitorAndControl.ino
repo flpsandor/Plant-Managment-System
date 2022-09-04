@@ -16,12 +16,12 @@ const int map_high = 200;
 // DEFINISANJE IZLAZA (RELEJI)
 const byte svetlo = 5;
 const byte fen = 4;
-const byte grejac_vazduh = 13;
+const byte grejac_vazduh = 9;
 const byte pumpa_zemlja = 11;
 const byte ventilator_ulaz = 10;
 const byte ventilator_izlaz = 6;
 const byte pumpa_vazduh = 7;
-const byte grejac_zemlja = 12;
+const byte grejac_zemlja = 8;
 
 // SENZOR TEMPERATURE I VLAZNOSTI VAZDUHA
 DHT dht(DHTPIN, DHTTYPE);
