@@ -4,7 +4,7 @@ Arduino controlled plant growth management system with more individual soil and 
 ## Main idea
 Have fun and learn.
 
-### Hardware used
+## Hardware used
 - Arduino Uno clone.
 - Analog moisture sensor. It reads the moisture level of the pot depending on the amount of water present on it.
 - DHT11. Digital sensor to measure air temp and air humidity.
