@@ -2,7 +2,9 @@
 Arduino controlled plant growth management system with more individual soil and air, temperature and humidity control.
 
 ## Main idea
-Have fun and learn.
+Checking soil and air, moisture, and temperature and controlling ventilation, heating, and watering. We control the moisture in the air by activating or turning off the fans or creating a mist effect if the values are too low. The air temperature is regulated by two sources. Two small PTC heaters to control temperature to a small degree, and a large 1kw blowing radiator. Soil temperature is controlled by heating cable, and soil humidity by small water nozzles. The light is controlled by the RTC module.
+
+![Screenshot 2022-08-23 131313](https://user-images.githubusercontent.com/111133064/188284658-a9c3b89f-8e13-41a5-824c-6c36ba73c85d.png)
 
 ## Hardware used
 - Arduino Uno clone.
@@ -16,5 +18,10 @@ Have fun and learn.
 - One old hairdryer (with some sawing) for heating air.
 - RTC for controling light
 
-![Screenshot 2022-08-23 131313](https://user-images.githubusercontent.com/111133064/188284658-a9c3b89f-8e13-41a5-824c-6c36ba73c85d.png)
+## Required libraries
+- DHT.h
+- OneWire.h
+- DallasTemperature.h
+- Wire.h
 
+![WhatsApp Image 2022-09-26 at 17 44 26](https://user-images.githubusercontent.com/111133064/192322447-8732238e-4429-4888-896f-9a11a68fb0ef.jpeg)
