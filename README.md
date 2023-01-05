@@ -23,5 +23,3 @@ Checking soil and air, moisture, and temperature and controlling ventilation, he
 - OneWire.h
 - DallasTemperature.h
 - Wire.h
-
-![WhatsApp Image 2022-09-26 at 17 44 26](https://user-images.githubusercontent.com/111133064/192322447-8732238e-4429-4888-896f-9a11a68fb0ef.jpeg)
